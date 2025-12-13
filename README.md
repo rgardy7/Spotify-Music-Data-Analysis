@@ -3,8 +3,7 @@
 Going over the data I thought it would be interesting to uncover what kind of trends the dataset would reveal in music taste.
 Over the course of time we're starting to see more artists come out and music streaming is the most popular way to listen to your favorite artist and songs.  
 There's also been a wave of content that is becoming shorter as time goes on and wanted to see if that had any affects on song popularity.  
-Questions I had when diving into the data was, Do famous artits always have popular songs? How has song duration changed over time? Does explicit content  
-impact track popularity.  
+Questions I had when diving into the data was, Do famous artits always have popular songs? How has song duration changed over time? Does explicit content impact track popularity.  
 
 ## The Data  
 The source of this data comes from a dataset on kaggle called ["Spotify Global Music Dataset (2009-2025)"](https://www.kaggle.com/datasets/wardabilal/spotify-global-music-dataset-20092025)  
