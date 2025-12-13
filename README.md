@@ -7,7 +7,7 @@ Questions I had when diving into the data was, Do famous artits always have popu
 impact track popularity.  
 
 ## The Data  
-The source of this data comes from a dataset on kaggle called ["Spotify Global Music Dataset (2009-2025)](https://www.kaggle.com/datasets/wardabilal/spotify-global-music-dataset-20092025)  
+The source of this data comes from a dataset on kaggle called ["Spotify Global Music Dataset (2009-2025)"](https://www.kaggle.com/datasets/wardabilal/spotify-global-music-dataset-20092025)  
 There's around 8,500 tracks in the dataset.  
 
 ## Tools
@@ -16,7 +16,7 @@ There's around 8,500 tracks in the dataset.
 **IDE:** Jupyter Notebook  
 
 ## Key Insights and Visualizations  
-**Insight 1:** Track durations are shortening while volumes of music content is increasing. (<img width="600" height="400" alt="Evolution of Music" src="https://github.com/user-attachments/assets/3faa27fc-cb5a-4c35-b74c-e867db5eedee"/>)
+**Insight 1:** Track durations are shortening while volumes of music content is increasing. (<img width="600" height="400" alt="Evolution of Music" src="https://github.com/user-attachments/assets/3faa27fc-cb5a-4c35-b74c-e867db5eedee"/>)  
 Songs over the course of 15 years look to have dropped from an average of 3.75 to 3.08 minutes.  
 While the volumne of music being released has increased over the course of 15 years.  
 This could be with presence of streaming music now and how the pay structure is laid out, causing music to be shortend and the volumne of music to increase. More analysis would have to be done in order to come up with a concrete stance on that hypothesis.  
